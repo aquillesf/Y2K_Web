@@ -6,3 +6,4 @@ Ferramentas usadas até então:
 - HTML5
 - CSS
 - JS
+- Neocities (Host)
